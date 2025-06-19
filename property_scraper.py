@@ -15,6 +15,7 @@ class PropertyScraper:
         self.house_dict = {}
 
         self.locality = extract_locality(self.url)
+        #set attributes to none for error handling
         self.propertytype = None
         self.subtype = None
         self.price = None
@@ -88,7 +89,7 @@ class PropertyScraper:
 
 
 # Load URLs from CSV file.
-df = pd.read_csv(r"Immo-Eliza\data\house_urls.csv")   # Adjust path if needed
+df = pd.read_csv(r"Immo_Eliza\data\house_urls.csv")   # Adjust path if needed
 house_urls = df["House URL"].tolist()[:20] # Set to 5 for code testing
 
 
@@ -102,10 +103,10 @@ for url in house_urls:
 
 # Save the scraped data to CSV.
 df_scraped = pd.DataFrame(scraped_data)
-df_scraped.to_csv(r"Immo-Eliza\data\property_data.csv", index=False)
+df_scraped.to_csv(r"Immo_Eliza\data\property_data.csv", index=False)
 print(f"Saved {len(scraped_data)} property listings to 'property_data.csv'.")
 
 
 #Display first few rows.
-df_result = pd.read_csv(r"Immo-Eliza\data\property_data.csv")
+df_result = pd.read_csv(r"Immo_Eliza\data\property_data.csv")
 print(df_result.head())

@@ -39,7 +39,7 @@ if __name__ == '__main__':
     full_houses_url = [base_url + url for url in houses_url]
     # Store url's in csv
     df = pd.DataFrame(full_houses_url, columns=["House URL"])
-    df.to_csv(r"Immo-Eliza\data\house_urls.csv", index=False)
+    df.to_csv(r"Immo_Eliza\data\house_urls.csv", index=False)
     #print storage location
     print(f"Saved {len(full_houses_url)} house URLs to 'house_urls.csv'")
 

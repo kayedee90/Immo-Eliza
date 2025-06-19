@@ -21,11 +21,11 @@ def fetch_house_urls(page_number):
     return page_houses_url
 
 if __name__ == '__main__':
-    total_pages = 100 #number of pages to be scraped
+    total_pages = 200 #number of pages to be scraped
     houses_url = [] #dictionary to store pages
 
     #run multiple concurrent processes to speed up results
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor: #adjust workers if needed
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor: #adjust workers if needed
         results = executor.map(fetch_house_urls, range(1, total_pages + 1))
         for page_urls in results:
             if page_urls:

@@ -1,4 +1,4 @@
-Listing Number,Property Type,Subtype,Price,Number of Rooms,Living Area,EPC Value,EPC Score,Garden,Plot Surface Area
+Listing Number,Property Type,Subtype,Price,Number of Rooms,Living Area,EPC Value,EPC Label,Garden,Plot Surface Area
 863792,House,House,"€249,000",3,137 m²,1044,F,,1.361 m²
 863791,House,House,"€299,000",3,160 m²,866,F,Yes,1.683 m²
 863562,House,House,"€899,000",4,214 m²,,,Yes,1.204 m²

@@ -21,7 +21,7 @@ class PropertyScraper:
         self.rooms = None
         self.area = None
         self.epc = None
-        self.epc_score = None  
+        self.epc_label = None  
         self.garden = None
         self.surface_plot = None
 
@@ -53,7 +53,7 @@ class PropertyScraper:
         self.rooms = features.get("Number of bedrooms")
         self.area = features.get("Living area") or features.get("Surface")
         self.epc = features.get("EPC score") or features.get("EPC score (kWh/(m² years))")
-        self.epc_score = features.get("EPC label")
+        self.epc_label = features.get("EPC label")
         self.garden = features.get("Garden")
         self.surface_plot = features.get("Plot size") or features.get("Land area")
 
@@ -65,7 +65,7 @@ class PropertyScraper:
             "Number of Rooms": self.rooms,
             "Living Area": self.area,
             "EPC Value": self.epc,
-            "EPC Score": self.epc_score,
+            "EPC Label": self.epc_label,
             "Garden": self.garden,
             "Plot Surface Area": self.surface_plot,
         }

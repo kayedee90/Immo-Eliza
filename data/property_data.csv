@@ -1,6 +1,13 @@
-Listing Number,Property Type,Subtype,Price,Build Year,Renovation Year,Number of Rooms,Living Area,EPC Value,Garage,Terrace,Terrace Size,Garden,Garden Size,Plot Surface Area,Facades
-863792,House,House,"€249,000",,House,,,,,,,,,,
-863789,Plot,Plot,"€250,000",,Plot,,,,,,,16 m,,,
-863791,1.683 m²,Residential area with rural character,"€299,000",,Residential area with rural character,,,,,,,2000 m,,,
-863790,Plot,Plot,"€249,000",,Plot,,,,,,,,,,
-863788,Plot,Recreational terrain,"€25,000",,Recreational terrain,,,,,,,,,,
+Listing Number,Property Type,Subtype,Price,Number of Rooms,Living Area,EPC Value,EPC Score,Garden,Plot Surface Area
+863792,House,House,"€249,000",3,137 m²,1044,F,,1.361 m²
+863791,House,House,"€299,000",3,160 m²,866,F,Yes,1.683 m²
+863562,House,House,"€899,000",4,214 m²,,,Yes,1.204 m²
+863449,Apartment,Apartment,"€279,000",2,78 m²,141,B,,
+863442,House,House,"€495,000",4,220 m²,360,D,Yes,1.461 m²
+863441,House,House,"€195,000",3,198 m²,687,F,Yes,1.119 m²
+860108,House,Villa,"€599,000",4,276 m²,292,C,Yes,1.965 m²
+859749,House,House,"€289,000",2,115 m²,313,D,Yes,206 m²
+859565,House,House,"€795,000",3,472 m²,71,A,Yes,430 m²
+859563,House,,"€469,000",2,165 m²,342,D,Yes,924 m²
+859242,House,House,"€445,000",3,140 m²,162,B,Yes,648 m²
+859234,House,Villa,"€589,000",4,267 m²,127,B,Yes,751 m²

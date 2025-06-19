@@ -32,5 +32,5 @@ Future updates will be made to complete the full scraping dataset.
 # Usage
 
 Use link_scraper.py to scrape your desired amount of links.  
-These links are then stored to house_urls.csv in the data folder.
-Next, you run the immo_scraper, which pulls the links from the datafolder, scraped te requested data, and stores it in property_data.csv in the datafolder.
+These links are then stored to house_urls.csv in the data folder.  
+Next, run the immo_scraper, which pulls the links from the datafolder, scrapes the requested data, and stores it in property_data.csv in the datafolder.

@@ -11,3 +11,821 @@ Listing Number,Property Type,Subtype,Price,Number of Rooms,Living Area,EPC Value
 859563,House,,"€469,000",2,165 m²,342,D,Yes,924 m²
 859242,House,House,"€445,000",3,140 m²,162,B,Yes,648 m²
 859234,House,Villa,"€589,000",4,267 m²,127,B,Yes,751 m²
+859232,House,House,"€539,000",4,211 m²,33,A,Yes,612 m²
+859516,House,House,"€429,000",3,195 m²,251,C,Yes,1.266 m²
+857927,House,House,"€315,000",6,242 m²,220,C,Yes,115 m²
+857807,House,House,"€890,000",4,200 m²,463,E,,7.084 m²
+856880,House,House,"€545,000",4,229 m²,187,B,Yes,1.747 m²
+857956,Apartment,Apartment,"€684,000",4,184 m²,262,C,Yes,1.361 m²
+857837,House,House,"€249,000",3,130 m²,595,F,,1.015 m²
+855378,Apartment,Ground floor apartment,"€339,000",2,95 m²,187,B,Yes,516 m²
+854303,Apartment,Apartment,"€325,000",4,195 m²,229,C,,195 m²
+868517,Apartment,Apartment,"€299,000",1,58 m²,62,A,,
+868495,House,House,"€415,000",3,164 m²,152,B,Yes,513 m²
+868484,House,House,"€429,000",3,240 m²,423,E,Yes,1.078 m²
+868459,House,House,"€485,000",4,163 m²,68,A,Yes,920 m²
+868419,House,House,"€549,000",2,189 m²,145,B,Yes,990 m²
+868401,House,House,"€299,000",3,137 m²,153,B,Yes,143 m²
+868344,Apartment,Duplex,"€250,000",2,115 m²,222,,,121 m²
+868339,House,House,"€438,000",2,200 m²,317,D,Yes,10.000 m²
+868036,Apartment,,"€189,000",1,55 m²,303,D,Yes,
+868035,House,House,"€595,000",,150 m²,217,C,,
+868027,Apartment,,"€224,000",2,93 m²,122,B,,
+868023,House,House,"€595,000",4,212 m²,117,B,,380 m²
+868503,Apartment,Ground floor apartment,"€240,000",2,85 m²,367,D,Yes,
+868502,House,Holiday house,"€280,000",2,86 m²,599,E,Yes,1.251 m²
+868497,Apartment,Apartment,"€285,000",2,90 m²,108,B,,
+868492,House,Villa,"€1,395,000",4,355 m²,164,B,Yes,2.675 m²
+868489,House,Villa,"€1,675,000",5,485 m²,151,B,Yes,2.494 m²
+868438,Apartment,Apartment,"€325,000",3,114 m²,103,B,,450 m²
+868431,Apartment,Apartment,"€224,000",2,86 m²,103,B,,
+868430,Apartment,Apartment,"€250,000",3,98 m²,230,C,,
+868420,House,House,"€334,000",4,172 m²,,,Yes,324 m²
+868412,House,House,"€429,000",4,205 m²,1394,,Yes,687 m²
+868396,House,House,"€249,000",3,180 m²,411,E,Yes,373 m²
+866731,House,House,"€245,000",3,117 m²,371,D,Yes,329 m²
+868363,House,Farmstead,"€779,000",5,307 m²,386,D,Yes,1.400 m²
+868362,House,House,"€449,000",4,162 m²,150,B,Yes,210 m²
+868357,Apartment,Apartment,"€189,500",2,73 m²,197,D,,
+803721,Apartment,Apartment,"€369,000",3,"113,65 m²",,,,
+868350,Apartment,Apartment,"€276,000",3,120 m²,114,B,,"674,09 m²"
+868349,House,House,"€499,000",3,222 m²,249,C,Yes,398 m²
+868348,House,House,"€499,000",5,196 m²,116,B,Yes,"345,3 m²"
+868343,House,House,"€277,000",3,154 m²,478,E,Yes,314 m²
+868315,Apartment,Apartment,"€329,000",2,85 m²,40,,,
+868311,House,House,"€469,000",3,165 m²,65,A,Yes,537 m²
+868312,House,House,"€465,000",3,154 m²,73,A,Yes,70 m²
+868309,House,House,"€499,000",5,300 m²,150,B,Yes,331 m²
+868280,House,House,"€440,000",3,202 m²,210,C,Yes,380 m²
+868238,House,Villa,"€695,000",5,300 m²,73,A,Yes,1.698 m²
+868236,Apartment,Flat,"€239,000",2,100 m²,458,E,,
+868234,House,House,"€525,000",3,120 m²,130,B,Yes,350 m²
+868186,House,Mansion,"€895,000",5,401 m²,183,B,Yes,480 m²
+868185,House,House,"€2,350,000",4,485 m²,20,A+,Yes,2.865 m²
+868181,House,House,"€385,000",3,135 m²,155,B,Yes,315 m²
+868177,House,Bungalow,"€199,000",1,,630,F,Yes,294 m²
+868179,House,House,"€499,500",4,,,,Yes,825 m²
+868175,House,House,"€399,000",3,,259,C,Yes,200 m²
+868173,House,House,"€310,000",4,136 m²,123,B,Yes,243 m²
+868174,House,House,"€450,000",5,269 m²,441,E,Yes,560 m²
+868137,House,House,"€549,000",4,220 m²,480,E,,1.029 m²
+868136,House,House,"€350,000",3,168 m²,725,F,,
+868133,Apartment,Penthouse,"€398,000",2,140 m²,,E,,
+868125,Apartment,House,"€395,000",3,144 m²,118,B,,
+868013,Apartment,,"€315,000",2,114 m²,145,B,,114 m²
+868005,Apartment,Parking lot,"€209,000",2,80 m²,170,B,,
+867996,Apartment,,"€267,000",2,114 m²,169,B,,
+867994,House,House,"€335,000",3,175 m²,194,B,Yes,165 m²
+867995,House,House,"€715,000",3,,142,B,,
+861525,House,Mixed-use building,"€849,000",6,318 m²,339,D,Yes,686 m²
+861524,House,House,"€535,000",4,240 m²,,,Yes,373 m²
+861382,House,House,"€415,000",3,150 m²,80,A,Yes,276 m²
+861379,House,House,"€592,000",3,221 m²,259,C,Yes,1.903 m²
+861264,House,House,"€548,000",6,320 m²,342,D,Yes,800 m²
+850111,House,House,"€774,000",3,269 m²,15,A,Yes,868 m²
+867983,Apartment,Apartment,"€350,000",2,89 m²,,A,No,
+867944,House,,"€249,000",0,,,E,,532 m²
+867914,Apartment,Apartment,"€140,000",2,,208,C,,70 m²
+867767,House,House,"€379,000",4,186 m²,255,C,Yes,290 m²
+867766,House,House,"€379,000",2,146 m²,186,B,Yes,405 m²
+867721,House,House,"€389,000",3,142 m²,350,D,,311 m²
+867717,House,House,"€470,000",4,"163,5 m²",816,F,Yes,170 m²
+867716,House,House,"€395,000",0,217 m²,364,D,,3.100 m²
+867718,House,,"€389,000",3,120 m²,299,C,Yes,997 m²
+867715,House,House,"€420,000",3,144 m²,,,Yes,"512,86 m²"
+867714,House,House,"€790,000",6,"322,5 m²",168,B,,1.773 m²
+867693,Apartment,Apartment,"€159,000",1,,90,A,,
+866970,Apartment,Studio,"€149,000",1,33 m²,285,C,,
+866960,Apartment,Ground floor apartment,"€349,000",1,77 m²,191,B,Yes,
+866940,Apartment,Apartment,"€249,000",2,110 m²,142,B,,
+866893,Apartment,Apartment,"€439,000",2,115 m²,159,B,,
+866865,House,Extraordinary house,"€595,000",8,287 m²,139,B,Yes,350 m²
+866805,Apartment,Ground floor apartment,"€695,000",2,133 m²,95,A,Yes,
+866793,Apartment,Apartment,"€285,000",2,92 m²,75,A,,
+866417,House,House,"€715,000",3,237 m²,213,C,,90 m²
+866415,House,House,"€378,000",3,175 m²,137,B,Yes,250 m²
+866410,House,House,"€475,000",4,251 m²,,F,,2.006 m²
+866362,House,House,"€190,000",3,199 m²,615,F,,130 m²
+866327,House,House,"€395,000",3,155 m²,396,D,Yes,704 m²
+866324,Apartment,,"€449,000",2,131 m²,300,C,,1.377 m²
+866319,House,House,"€649,000",2,142 m²,184,B,Yes,
+866318,House,House,"€1,875,000",6,525 m²,122,B,Yes,5.717 m²
+866313,Apartment,,"€475,000",3,125 m²,223,C,,
+866311,Apartment,,"€299,000",3,125 m²,,,,
+866293,House,House,"€945,000",6,550 m²,79,A,Yes,3.066 m²
+849086,Apartment,Apartment,"€199,000",1,123 m²,531,F,,
+866253,Apartment,Apartment,"€229,700",2,87 m²,189,B,No,
+866240,Apartment,Apartment,"€587,500",3,119 m²,,A,,119 m²
+866155,Apartment,Apartment,"€565,000",2,106 m²,30,A,,106 m²
+866153,Apartment,Apartment,"€1,691,000",3,199 m²,30,A,,199 m²
+866152,Apartment,Apartment,"€1,117,600",2,127 m²,30,A,,127 m²
+866130,House,,"€245,000",2,75 m²,95,A,Yes,1.489 m²
+866062,House,Villa,"€3,295,000",8,1.090 m²,126,B,Yes,4.031 m²
+866008,Apartment,Apartment,"€219,000",1,,161,B,,
+865972,Apartment,Apartment,"€369,000",2,81 m²,,,,81 m²
+865971,House,House,"€385,000",3,144 m²,,,Yes,"278,87 m²"
+865929,House,House,"€639,000",3,,5,A,Yes,391 m²
+865926,Apartment,Apartment,"€199,000",2,,190,B,,
+865815,Apartment,Apartment,"€199,000",2,87 m²,149,B,Yes,
+865754,House,Single-family home,"€620,000",4,288 m²,83,A,Yes,272 m²
+865724,Apartment,Ground floor apartment,"€319,000",2,95 m²,129,B,Yes,
+865680,House,House,"€410,000",3,162 m²,243,C,Yes,189 m²
+846099,Apartment,Duplex,"€249,500",2,98 m²,280,C,,
+865676,House,Villa,"€647,200",3,144 m²,86,A,Yes,706 m²
+865675,Apartment,Apartment,"€259,000",1,47 m²,226,C,No,
+865646,House,House,"€420,000",3,144 m²,,,Yes,500 m²
+865644,House,,"€90,000",1,,1592,F,,40 m²
+865631,Apartment,Apartment,"€250,000",2,70 m²,139,B,,79 m²
+865628,Apartment,Apartment,"€195,000",1,66 m²,122,,,
+865528,Apartment,Apartment,"€560,000",2,140 m²,91,A,,
+865526,House,Bel-etage,"€400,000",3,178 m²,256,C,Yes,215 m²
+865514,House,House,"€450,909",3,173 m²,,A,Yes,590 m²
+865457,House,House,"€579,500",3,178 m²,359,D,Yes,546 m²
+865438,House,House,"€1,360,000",5,391 m²,542,F,,
+865400,Apartment,,"€269,000",1,85 m²,283,C,Yes,85 m²
+865373,House,House,"€745,000",4,,,A,,
+868690,House,Extraordinary house,"€1,249,000",6,660 m²,265,C,Yes,4.729 m²
+868628,Apartment,Ground floor apartment,"€385,000",2,103 m²,,,,139 m²
+868662,House,Single-family home,"€898,750",4,195 m²,,,Yes,592 m²
+868644,House,Bel-etage,"€347,551",3,169 m²,,,Yes,138 m²
+868648,Apartment,Ground floor apartment,"€385,000",2,103 m²,,,,139 m²
+868647,Apartment,Apartment,"€310,000",1,75 m²,,,,92 m²
+868634,House,,"€95,000",3,40 m²,,,Yes,150 m²
+868643,House,Bel-etage,"€379,551",3,173 m²,,,Yes,240 m²
+868637,Apartment,Room / student,"€170,000",,"23,77 m²",,,,
+868268,House,House,"€275,000",4,117 m²,335,D,Yes,407 m²
+868158,Apartment,Flat,"€219,000",2,116 m²,60,A,,
+868150,House,House,"€375,000",3,318 m²,273,C,Yes,560 m²
+868134,House,House,"€498,000",3,167 m²,949,F,Yes,1.058 m²
+868117,House,House,"€449,500",3,"180,5 m²",,B,Yes,422 m²
+868111,Apartment,,"€118,000",,29 m²,217,C,,
+868113,Apartment,,"€248,000",2,"86,5 m²",141,B,,
+868106,House,House,"€275,000",2,216 m²,425,E,,334 m²
+868101,House,House,"€149,000",4,145 m²,296,C,Yes,91 m²
+868097,Apartment,,"€390,000",2,93 m²,94,A,,
+868095,House,House,"€649,000",4,,,A,Yes,781 m²
+868093,House,House,"€187,000",3,148 m²,438,E,,842 m²
+868081,Apartment,,"€240,000",2,117 m²,310,D,,106 m²
+868085,House,House,"€347,000",3,304 m²,364,D,,1.330 m²
+868080,House,House,"€599,000",5,305 m²,52,A,Yes,841 m²
+868078,Apartment,,"€115,000",,27 m²,435,E,,188 m²
+868076,Apartment,,"€585,000",4,195 m²,199,B,,
+868072,Apartment,Penthouse,"€235,000",2,127 m²,281,C,,
+868042,House,House,"€420,000",4,180 m²,200,B,Yes,532 m²
+868039,House,House,"€421,425",3,147 m²,,,Yes,459 m²
+868025,House,House,"€645,000",4,246 m²,138,B,,1.468 m²
+868018,House,House,"€169,000",3,202 m²,680,F,,357 m²
+867999,House,House,"€349,000",3,109 m²,269,C,,56 m²
+865370,House,Single-family home,"€595,000",3,264 m²,350,D,Yes,318 m²
+865369,Apartment,Apartment,"€198,700",1,56 m²,513,F,No,
+865367,Apartment,Apartment,"€595,000",2,105 m²,67,A,Yes,
+865366,Apartment,Apartment,"€375,000",2,90 m²,185,B,Yes,
+865336,House,House,"€649,000",3,,133,B,,
+864985,House,House,"€2,950,000",5,575 m²,322,D,Yes,333 m²
+864901,House,Mixed-use building,"€645,000",3,,177,B,Yes,226 m²
+864880,Apartment,Apartment,"€292,000",3,146 m²,248,C,,791 m²
+864764,House,House,"€279,000",2,104 m²,266,C,,8 m²
+864754,House,House,"€159,000",2,136 m²,508,F,Yes,217 m²
+864750,Apartment,Duplex,"€339,000",2,108 m²,,A,Yes,
+864747,House,House,"€349,000",3,184 m²,145,B,Yes,278 m²
+864730,House,House,"€444,000",2,152 m²,449,E,,198 m²
+864724,Apartment,Apartment,"€264,000",2,75 m²,815,,,
+864709,House,Single-family home,"€615,000",3,210 m²,208,C,Yes,595 m²
+864708,House,House,"€299,000",4,166 m²,149,B,,103 m²
+864703,House,Bel-etage,"€485,000",4,174 m²,198,B,Yes,228 m²
+864702,Apartment,Apartment,"€265,000",2,90 m²,138,B,,
+864652,House,House,"€789,000",5,195 m²,98,A,Yes,100 m²
+864650,Apartment,Apartment with garden,"€390,000",2,61 m²,,A,Yes,61 m²
+864649,Apartment,Apartment,"€459,000",2,79 m²,39,A,,
+864642,House,House,"€650,000",4,193 m²,162,B,,320 m²
+864641,Apartment,Apartment,"€315,000",2,121 m²,260,C,,
+864583,House,Farm,"€315,000",5,253 m²,613,F,Yes,879 m²
+864572,House,House,"€275,000",4,268 m²,251,C,Yes,280 m²
+864554,Apartment,Penthouse,"€415,000",3,152 m²,30,,Yes,
+864505,Apartment,Flat,"€189,000",2,96 m²,260,C,,1.004 m²
+864506,Apartment,Flat,"€238,000",2,97 m²,133,B,,
+864504,Apartment,Duplex,"€595,000",3,158 m²,110,B,,
+864460,House,House,"€140,000",,,,F,,347 m²
+864442,House,House,"€549,000",5,238 m²,196,B,,2.192 m²
+864439,House,House,"€249,500",2,110 m²,200,B,Yes,1.150 m²
+864383,House,House,"€329,000",2,152 m²,236,C,,580 m²
+864367,Apartment,,"€235,000",2,97 m²,124,B,,
+864354,Apartment,,"€677,000",5,260 m²,245,C,,450 m²
+864338,Apartment,,"€209,000",1,74 m²,289,C,,450 m²
+864335,Apartment,,"€229,000",2,93 m²,245,C,,450 m²
+864334,Apartment,,"€239,000",2,93 m²,176,B,,450 m²
+864315,House,House,"€299,000",4,175 m²,133,B,,111 m²
+864308,Apartment,,"€249,900",1,88 m²,133,B,,88 m²
+864306,Apartment,,"€189,500",2,85 m²,160,B,,85 m²
+864280,House,House,"€270,000",2,118 m²,577,F,Yes,660 m²
+864279,Apartment,,"€365,000",2,107 m²,176,B,,
+864275,Apartment,,"€219,000",3,84 m²,146,B,,
+864271,Apartment,,"€210,000",1,48 m²,192,B,,
+859157,House,House,"€769,000",3,354 m²,194,B,Yes,920 m²
+859066,House,House,"€399,000",5,204 m²,399,D,Yes,1.020 m²
+859053,House,House,"€179,000",2,113 m²,493,E,Yes,180 m²
+858729,Apartment,,"€179,000",2,85 m²,126,B,,
+858706,House,House,"€775,000",3,269 m²,222,C,,1.100 m²
+858702,House,House,"€1,075,000",3,269 m²,222,C,,2.200 m²
+843857,House,House,"€295,000",2,112 m²,262,C,Yes,250 m²
+866956,House,House,"€419,500",3,126 m²,,,Yes,"151,73 m²"
+866957,House,House,"€520,000",4,"205,65 m²",20,,Yes,"366,53 m²"
+866955,House,House,"€407,000",3,126 m²,,,Yes,"149,05 m²"
+866950,Apartment,Apartment,"€765,000",2,124 m²,,,,145 m²
+866944,House,House,"€407,000",3,"187,65 m²",20,,Yes,"250,2 m²"
+866942,House,House,"€406,000",3,127 m²,,,Yes,"155,64 m²"
+866939,House,House,"€427,000",3,"196,7 m²",20,,Yes,"220,45 m²"
+866937,House,House,"€404,500",3,126 m²,,,Yes,"148,6 m²"
+866935,Apartment,Room / student,"€205,000",,"24,52 m²",,,,
+866930,Apartment,Apartment,"€299,000",1,59 m²,127,B,,
+866936,Apartment,Loft,"€835,000",3,199 m²,,,,214 m²
+866927,House,Single-family home,"€439,750",5,"172,6 m²",,,Yes,149 m²
+866926,House,Villa,"€490,616",3,144 m²,,,Yes,838 m²
+866925,Apartment,Loft,"€835,000",3,199 m²,,,,214 m²
+866923,Apartment,Apartment,"€765,000",2,124 m²,,,,145 m²
+866909,House,House,"€393,000",3,"177,68 m²",20,,Yes,"226,18 m²"
+866917,House,House,"€457,000",4,158 m²,,,Yes,"221,97 m²"
+866910,House,House,"€533,000",4,"228,82 m²",20,,Yes,402 m²
+866916,House,Single-family home,"€750,000",4,128 m²,422,,,77 m²
+866913,Apartment,Room / student,"€215,000",,"28,48 m²",,,,
+866908,House,House,"€459,000",4,"188,61 m²",20,,Yes,"299,36 m²"
+866906,House,House,"€427,000",3,121 m²,,,Yes,"209,03 m²"
+866905,House,House,"€432,000",3,"209,13 m²",20,,Yes,"241,61 m²"
+866902,House,House,"€650,000",5,220 m²,573,F,Yes,3.270 m²
+866891,House,Bungalow,"€330,000",3,,1135,F,Yes,604 m²
+866811,House,House,"€519,000",4,220 m²,183,B,Yes,575 m²
+866810,House,House,"€289,000",4,150 m²,345,D,Yes,616 m²
+866771,House,Extraordinary house,"€598,000",4,226 m²,308,D,Yes,860 m²
+866770,Apartment,Apartment,"€315,000",3,"109,7 m²",,A,,
+866769,Apartment,Apartment,"€295,000",3,"103,8 m²",42,A,,
+866767,Apartment,Apartment,"€370,000",3,120 m²,30,A,,
+866765,Apartment,Apartment,"€270,000",2,"92,8 m²",32,A,,
+866764,Apartment,Apartment,"€375,000",3,120 m²,33,A,,
+866745,House,House,"€350,000",3,120 m²,531,F,Yes,556 m²
+866734,House,Holiday house,"€145,000",2,60 m²,,,Yes,1.800 m²
+866730,House,House,"€259,000",4,120 m²,319,D,,84 m²
+866727,Apartment,Apartment,"€215,000",2,85 m²,244,C,,
+866724,House,House,"€245,000",3,"104,8 m²",355,D,Yes,226 m²
+865723,House,House,"€365,000",3,,232,C,Yes,540 m²
+866600,Apartment,Flat,"€415,000",2,93 m²,153,B,,885 m²
+866337,Apartment,,"€254,000",2,85 m²,126,B,,
+866333,House,House,"€215,000",3,"231,64 m²",1102,F,,740 m²
+866330,House,House,"€389,000",3,,,,Yes,213 m²
+866326,House,House,"€1,650,000",5,495 m²,193,B,Yes,660 m²
+864113,House,House,"€365,000",3,140 m²,302,D,Yes,665 m²
+864054,House,Villa,"€1,150,000",3,428 m²,224,C,Yes,3.008 m²
+863759,House,House,"€568,000",3,160 m²,60,A,Yes,265 m²
+863758,House,House,"€129,000",2,140 m²,537,,Yes,180 m²
+863651,House,House,"€590,000",7,301 m²,413,,Yes,230 m²
+863642,Apartment,Loft,"€1,940,000",2,341 m²,190,B,Yes,
+863635,Apartment,Apartment,"€349,000",1,55 m²,320,D,,233 m²
+863602,House,House,"€569,000",6,"232,5 m²",45,A,Yes,432 m²
+863518,Apartment,Apartment,"€275,000",2,87 m²,,,,
+863514,House,Villa,"€924,000",4,338 m²,175,B,Yes,720 m²
+863510,House,House,"€299,000",5,330 m²,755,F,Yes,270 m²
+863481,House,Villa,"€555,000",3,125 m²,,A,Yes,
+863474,Apartment,Mixed-use building,"€900,000",2,332 m²,,A,,1.030 m²
+863472,Apartment,Apartment,"€355,000",3,108 m²,212,C,,
+863456,House,Single-family home,"€395,000",4,200 m²,235,C,Yes,1.040 m²
+863455,House,Single-family home,Contact us,4,200 m²,293,C,Yes,1.602 m²
+863414,Apartment,Apartment,"€320,000",1,65 m²,252,C,,
+863377,Apartment,Flat,"€295,000",2,,199,B,,
+863368,Apartment,Flat,"€350,000",2,"82,56 m²",20,,,
+863328,House,House,"€275,000",3,107 m²,614,F,Yes,467 m²
+863321,House,Villa,"€675,000",3,418 m²,191,B,Yes,1.353 m²
+863302,Apartment,Flat,"€255,000",,46 m²,119,B,,
+863296,Apartment,Flat,"€280,000",2,100 m²,30,,Yes,
+863288,Apartment,Flat,"€276,000",,90 m²,118,B,,
+863264,House,House,"€408,000",3,110 m²,500,E,Yes,495 m²
+863249,Apartment,,"€244,500",2,72 m²,299,C,,
+863243,Apartment,,"€395,000",1,100 m²,166,B,,
+857904,Apartment,Apartment,"€253,000",2,,183,B,,
+857876,House,House,"€259,000",3,162 m²,347,D,Yes,196 m²
+857833,House,House,"€245,000",2,165 m²,489,E,Yes,409 m²
+857832,Apartment,Apartment,"€359,000",2,86 m²,103,B,Yes,
+857692,House,House,"€575,000",2,170 m²,249,C,,1.861 m²
+845084,Apartment,Ground floor apartment,"€175,000",2,80 m²,291,C,,
+845083,Apartment,Apartment,"€139,000",1,66 m²,234,C,,
+844786,House,House,"€299,000",3,158 m²,524,F,Yes,2.193 m²
+843119,House,,"€268,000",3,151 m²,277,C,Yes,188 m²
+842679,House,House,"€449,000",5,187 m²,390,D,Yes,1.704 m²
+842362,Apartment,Apartment,"€249,900",2,120 m²,158,B,,
+842078,Apartment,,"€265,000",2,78 m²,235,C,,370 m²
+867679,Apartment,Apartment,"€225,000",3,105 m²,157,B,,"4.822,28 m²"
+867675,House,House,"€249,000",3,80 m²,638,F,,181 m²
+867677,Apartment,Apartment,"€235,000",2,55 m²,184,B,,
+867676,Apartment,Apartment,"€315,000",3,"109,7 m²",,,,"156,3 m²"
+867674,Apartment,Apartment,"€370,000",3,120 m²,30,A,,128 m²
+867673,Apartment,Apartment,"€289,000",2,120.901 m²,32,A,,"133,33 m²"
+867671,House,House,"€439,000",5,314 m²,374,D,,1.218 m²
+867670,Apartment,Apartment,"€499,000",3,133 m²,225,C,,
+867669,Apartment,Apartment,"€399,000",2,95 m²,42,,,
+866269,Apartment,Apartment building,"€499,000",7,,,,No,170 m²
+866267,Apartment,Apartment building,"€499,000",7,,,,No,170 m²
+866266,Apartment,Apartment,"€274,000",3,136 m²,249,C,No,170 m²
+866265,Apartment,Apartment,"€299,000",3,145 m²,249,C,No,170 m²
+866161,House,Mansion,"€950,000",11,,405,E,Yes,310 m²
+866156,Apartment,Apartment,"€899,000",3,165 m²,72,A,,3.974 m²
+866138,House,,"€293,000",3,185 m²,347,D,Yes,
+866115,Apartment,Duplex,"€349,000",3,125 m²,95,A,,
+866091,House,House,"€229,000",4,185 m²,488,E,Yes,676 m²
+866089,House,,"€505,000",3,165 m²,,,Yes,320 m²
+866088,House,,"€599,000",4,260 m²,49,A,Yes,527 m²
+866090,House,,"€505,000",3,202 m²,,,Yes,320 m²
+866083,House,,"€549,000",5,341 m²,142,B,,1.451 m²
+866046,House,House,"€310,000",3,135 m²,128,B,Yes,426 m²
+865916,Apartment,,"€329,000",2,111 m²,177,B,No,
+865917,House,,"€519,000",2,244 m²,412,E,Yes,1.088 m²
+865915,House,,"€189,000",2,117 m²,658,F,Yes,150 m²
+865914,House,,"€219,000",3,120 m²,589,F,Yes,257 m²
+865804,Apartment,Room / student,"€155,000",,"17,82 m²",,,,
+865803,Apartment,Apartment,"€425,000",3,103 m²,,,,165 m²
+865756,Apartment,Apartment,"€299,000",2,89 m²,,,,99 m²
+865685,House,House,"€498,000",4,209 m²,525,F,,1.563 m²
+865682,Apartment,,"€265,000",2,111 m²,85,A,,
+865679,House,House,"€795,000",3,357 m²,199,B,Yes,1.451 m²
+862830,Apartment,,"€249,000",0,,,E,,532 m²
+862817,House,House,"€1,950,000",3,,272,,,
+862749,House,House,"€269,000",2,,500,E,,537 m²
+862745,House,House,"€269,000",3,160 m²,270,C,Yes,160 m²
+862743,House,House,"€482,000",4,,,,,
+862711,Apartment,Apartment,"€249,000",1,62 m²,244,C,,62 m²
+862689,House,Villa,"€945,000",4,290 m²,180,B,,3.969 m²
+862687,House,House,"€395,000",3,176 m²,158,B,Yes,227 m²
+862673,House,House,"€365,000",0,237 m²,516,F,,110 m²
+862471,Apartment,Duplex,"€425,000",2,118 m²,180,B,Yes,
+862472,House,House,"€498,000",4,210 m²,147,B,Yes,
+862464,Apartment,Apartment,"€325,000",2,75 m²,532,F,Yes,886 m²
+862347,Apartment,Penthouse,"€587,000",3,138 m²,,A,,
+862291,Apartment,Apartment,"€599,000",3,132 m²,,,,
+862250,Apartment,Ground floor apartment,"€315,000",2,100 m²,182,B,,
+862237,Apartment,Apartment,"€435,000",3,120 m²,159,B,,
+862235,Apartment,Apartment,"€2,275,000",3,237 m²,33,A,,
+862187,House,House,"€440,000",3,,287,C,Yes,683 m²
+862181,House,Single-family home,"€398,000",2,"159,6 m²",647,F,Yes,274 m²
+861916,Apartment,,"€251,000",3,90 m²,143,B,,582 m²
+861915,Apartment,,"€199,000",,46 m²,,,,
+861912,Apartment,,"€254,000",3,90 m²,188,B,,582 m²
+861913,House,House,"€390,000",3,"157,77 m²",,,,
+861874,Apartment,,"€328,250",2,,,A,,
+861869,Apartment,,"€259,000",2,97 m²,204,C,Yes,
+861872,House,House,"€448,000",3,,288,C,,
+857113,House,House,"€1,079,000",5,330 m²,9,A,Yes,857 m²
+856859,House,House,"€325,000",4,169 m²,815,F,,2.500 m²
+856855,House,Extraordinary house,"€369,000",3,179 m²,712,F,Yes,1.140 m²
+840633,House,Villa,"€1,795,000",5,635 m²,128,B,Yes,3.455 m²
+865913,Apartment,Apartment,"€270,000",1,68 m²,,,,
+865909,Apartment,Apartment,"€275,000",2,68 m²,,,,
+865908,House,House,"€545,000",3,240 m²,213,C,,720 m²
+865907,Apartment,Investment real estate,"€735,000",4,165 m²,180,B,,64 m²
+865906,Apartment,Apartment,"€208,000",1,75 m²,273,C,,
+865903,House,House,"€575,000",6,530 m²,366,D,,1.812 m²
+865904,Apartment,Apartment,"€345,000",2,85 m²,,,,
+865905,Apartment,Apartment,"€265,000",1,68 m²,,,,
+865902,Apartment,Apartment,"€250,000",1,68 m²,,,,
+868689,House,Single-family home,"€540,000",4,294 m²,276,C,Yes,1.948 m²
+868688,House,House,"€375,000",5,158 m²,596,F,Yes,1.370 m²
+868686,House,House,"€349,000",3,186 m²,162,B,,113 m²
+868685,Apartment,Apartment,"€299,900",2,99 m²,337,D,,"660,61 m²"
+868683,Apartment,Apartment,"€190,000",1,62 m²,99,A,,
+868525,House,Single-family home,"€179,000",3,170 m²,909,F,Yes,503 m²
+868518,House,Bungalow,"€279,000",3,"127,55 m²",625,F,Yes,411 m²
+868513,House,House,"€445,000",3,140 m²,83,A,Yes,863 m²
+868511,House,Villa,"€885,000",5,235 m²,60,A,Yes,3.846 m²
+868508,House,Single-family home,"€239,000",4,"177,45 m²",380,D,Yes,251 m²
+868506,House,Villa,"€749,000",3,340 m²,51,A,Yes,1.510 m²
+868507,House,House,"€279,000",3,149 m²,472,E,Yes,900 m²
+868505,House,House,"€379,000",3,170 m²,276,C,Yes,1.245 m²
+868493,Apartment,Apartment,"€399,500",4,171 m²,209,C,,
+868491,Apartment,Apartment,"€595,000",2,100 m²,,A,,
+868490,House,Single-family home,"€315,000",3,169 m²,642,F,Yes,500 m²
+868488,House,Villa,"€850,000",5,299 m²,265,,Yes,2.224 m²
+868487,Apartment,Duplex,"€360,000",2,123 m²,105,B,,
+868482,House,House,"€299,000",2,135 m²,728,F,Yes,725 m²
+868471,Apartment,Apartment,"€245,000",2,61 m²,143,B,,615 m²
+868468,Apartment,Apartment,Contact us,1,60 m²,153,B,,60 m²
+868467,Apartment,Apartment,"€179,000",2,75 m²,130,B,,75 m²
+868466,House,House,"€274,900",4,155 m²,357,D,,70 m²
+868465,Apartment,Ground floor apartment,"€229,000",3,105 m²,386,,,
+868461,House,House,"€325,000",3,100 m²,202,C,Yes,740 m²
+868458,House,Villa,"€315,000",2,93 m²,496,F,Yes,1.114 m²
+868456,House,Single-family home,"€625,000",4,200 m²,95,A,Yes,380 m²
+868455,Apartment,Apartment,"€358,000",2,79 m²,104,B,,1.414 m²
+868454,House,House,"€349,000",4,189 m²,332,D,Yes,181 m²
+868452,House,Mansion,"€645,000",4,352 m²,724,F,Yes,510 m²
+868451,Apartment,Penthouse,"€699,000",2,250 m²,176,B,,
+868450,Apartment,Loft,"€395,000",1,155 m²,113,C,,
+868445,House,Single-family home,"€589,800",4,224 m²,369,D,Yes,601 m²
+868446,Apartment,Apartment,"€305,000",2,86 m²,45,A,,86 m²
+868441,Apartment,Apartment,"€270,000",2,95 m²,147,C,Yes,
+868437,Apartment,Apartment,"€400,000",2,110 m²,124,B,,
+868436,House,Single-family home,"€295,000",2,116 m²,440,F,Yes,194 m²
+868435,Apartment,,"€359,000",3,107 m²,,A,Yes,
+868434,House,Single-family home,"€269,000",3,132 m²,137,,Yes,190 m²
+868428,House,Single-family home,"€225,000",2,97 m²,150,B,Yes,119 m²
+868425,Apartment,Apartment,"€270,000",2,115 m²,152,B,,
+868424,House,Apartment building,"€440,000",5,240 m²,192,D,,80 m²
+868421,House,House,"€550,000",3,153 m²,203,D,Yes,150 m²
+868417,House,House,"€345,000",3,106 m²,539,F,Yes,197 m²
+868416,Apartment,Duplex,"€239,000",2,112 m²,446,,,
+868415,House,House,"€549,000",6,268 m²,410,,Yes,100 m²
+868235,Apartment,Flat,"€150,000",2,63 m²,451,E,,
+868232,House,House,"€320,000",3,175 m²,270,C,Yes,210 m²
+868231,House,Villa,"€545,000",4,215 m²,159,B,Yes,1.202 m²
+868230,House,House,"€249,000",3,,828,F,Yes,258 m²
+868229,Apartment,Flat,"€249,000",1,50 m²,155,B,,
+868228,House,House,"€249,000",3,138 m²,927,F,Yes,1.052 m²
+868227,House,House,"€439,000",3,186 m²,74,A,Yes,390 m²
+868212,Apartment,Flat,"€269,000",2,65 m²,79,A,,
+868211,Apartment,Flat,"€225,000",1,52 m²,285,C,,
+868213,Apartment,Flat,"€210,000",1,53 m²,340,D,Yes,
+868209,House,House,"€299,000",2,,387,D,Yes,524 m²
+868205,Apartment,Flat,"€267,000",2,103 m²,38,A,,
+868206,Apartment,Duplex,"€277,000",2,93 m²,38,A,,
+868203,House,House,"€215,000",2,,164,B,Yes,
+868202,Apartment,Flat,"€245,000",1,70 m²,30,A+,,
+868200,Apartment,Flat,"€310,000",2,114 m²,30,A+,,
+868198,Apartment,Flat,"€299,500",2,104 m²,30,A+,,
+868195,House,House,"€220,000",3,,436,E,Yes,241 m²
+868190,House,House,"€425,000",3,134 m²,235,C,Yes,323 m²
+868191,Apartment,Flat,"€299,000",2,106 m²,201,C,Yes,
+868187,House,Bungalow,"€335,000",2,127 m²,845,F,Yes,930 m²
+868184,Apartment,Duplex,"€319,000",3,160 m²,189,B,,
+868180,Apartment,Flat,"€249,000",3,113 m²,333,D,Yes,
+868171,House,House,"€275,000",3,,1622,F,Yes,1.425 m²
+868166,Apartment,Flat,"€175,000",1,46 m²,165,B,,
+868157,House,House,"€555,000",4,213 m²,238,C,Yes,821 m²
+868156,House,House,"€339,000",3,191 m²,340,D,Yes,381 m²
+868142,Apartment,Flat,"€495,000",3,131 m²,162,B,,
+868140,Apartment,Flat,"€601,500",2,96 m²,30,,Yes,
+868139,Apartment,,"€195,000",2,72 m²,149,B,,
+868130,House,House,"€449,000",4,155 m²,174,B,Yes,199 m²
+868131,House,House,"€385,000",4,215 m²,354,D,,365 m²
+868123,House,House,"€695,000",4,175 m²,124,B,Yes,48 m²
+868122,House,House,"€449,000",4,155 m²,174,B,Yes,199 m²
+868118,House,House,"€339,000",4,154 m²,268,C,Yes,230 m²
+868114,House,House,"€1,395,000",6,493 m²,189,B,,1.754 m²
+868112,Apartment,,"€169,000",1,85 m²,593,F,,
+868109,House,House,"€239,000",3,210 m²,1045,F,,528 m²
+868105,House,House,"€432,000",3,,337,D,,495 m²
+868102,House,House,"€439,000",3,175 m²,330,D,,
+868103,House,House,"€249,000",2,240 m²,686,F,Yes,
+868100,House,House,"€469,000",3,200 m²,231,C,,743 m²
+868083,House,House,"€499,900",4,310 m²,477,F,,7.500 m²
+868079,House,House,"€89,000",3,105 m²,524,F,Yes,60 m²
+868077,House,House,"€185,000",3,125 m²,,,,80 m²
+868073,House,House,"€429,000",5,"181,23 m²",,,Yes,344 m²
+868074,House,House,"€440,000",3,154 m²,,,,
+868067,House,House,"€335,000",4,140 m²,135,B,,100 m²
+868058,Apartment,,"€145,000",1,50 m²,322,D,,
+868057,House,House,"€695,000",6,343 m²,152,B,Yes,1.698 m²
+867916,House,House,"€750,000",4,328 m²,241,C,Yes,3.178 m²
+867921,House,Chalet,"€67,000",2,40 m²,,,Yes,300 m²
+867915,House,House,"€465,000",3,476 m²,259,C,,1.247 m²
+867920,House,House,"€395,000",3,261 m²,540,F,,6.483 m²
+867918,Apartment,Apartment,"€229,500",2,65 m²,206,C,Yes,157 m²
+867922,Apartment,Apartment,"€238,500",2,74 m²,108,B,,74 m²
+867912,House,,"€535,000",5,495 m²,295,C,Yes,541 m²
+867909,House,House,"€450,000",6,281 m²,1026,F,,4.897 m²
+867906,House,House,"€260,000",3,113 m²,113,B,,233 m²
+867903,House,House,"€270,000",6,494 m²,593,F,Yes,559 m²
+867905,Apartment,Apartment,"€155,000",2,81 m²,200,B,,
+867902,Apartment,Apartment,"€235,000",2,95 m²,89,A,,
+867893,Apartment,Apartment,"€550,000",3,,255,C,,135 m²
+867894,Apartment,Apartment,"€295,000",2,86 m²,242,C,,"93,51 m²"
+867895,Apartment,Apartment,"€137,000",1,41 m²,137,B,,
+867814,Apartment,,"€460,000",2,168 m²,178,B,,6.070 m²
+867831,Apartment,,"€289,000",2,90 m²,136,B,,834 m²
+867832,House,,"€700,000",7,475 m²,280,C,Yes,1.200 m²
+867829,House,Villa,"€465,000",4,184 m²,223,C,,668 m²
+867818,Apartment,Loft,"€925,000",3,,289,C,Yes,1.161 m²
+867806,Apartment,Apartment,"€455,000",2,105 m²,112,B,,22.000 m²
+867803,House,,"€745,000",3,393 m²,129,B,Yes,934 m²
+867819,Apartment,Apartment,"€245,000",2,92 m²,90,A,,730 m²
+867804,House,,"€385,000",3,180 m²,262,C,Yes,549 m²
+867824,Apartment,Apartment,"€245,000",2,88 m²,174,B,,890 m²
+867805,Apartment,Apartment,"€195,000",3,141 m²,223,C,,465 m²
+867807,House,Villa,Contact us,0,,235,C,,4.000 m²
+867808,Apartment,Apartment,"€275,000",0,,378,D,,147 m²
+867798,Apartment,Apartment,"€189,000",1,55 m²,300,C,,55 m²
+867797,Apartment,Apartment,"€545,000",3,135 m²,179,B,,135 m²
+867796,Apartment,Apartment,"€189,000",0,44 m²,97,A,,44 m²
+867795,Apartment,Apartment,"€269,000",2,74 m²,60,A,,74 m²
+867792,House,,"€249,000",2,108 m²,546,F,,665 m²
+867791,Apartment,Apartment,"€665,000",2,171 m²,265,C,,171 m²
+867790,Apartment,Duplex,"€315,000",3,95 m²,112,B,,106 m²
+867785,Apartment,Apartment,"€259,000",2,93 m²,292,C,,93 m²
+867788,House,House,"€665,000",3,317 m²,192,B,,635 m²
+867787,Apartment,Apartment,"€665,000",3,317 m²,192,B,,635 m²
+867786,House,House,"€155,000",3,137 m²,541,F,,133 m²
+867782,House,,"€529,000",2,163 m²,97,A,,226 m²
+867781,House,,"€495,000",3,149 m²,112,B,,226 m²
+867778,Apartment,Apartment,"€345,000",3,122 m²,245,C,,
+867777,Apartment,Apartment,"€290,000",2,95 m²,,A,,
+867776,House,,"€1,245,000",0,,,,,173 m²
+867775,Apartment,Apartment,"€215,000",2,85 m²,205,C,,
+867773,Apartment,Duplex,"€695,000",2,80 m²,98,A,,96 m²
+867772,House,House,"€367,000",3,117 m²,96,A,Yes,275 m²
+867771,House,House,"€378,000",4,139 m²,22,A,Yes,161 m²
+867768,Apartment,Apartment,"€169,000",2,102 m²,227,C,,102 m²
+867769,Apartment,Apartment,"€369,000",2,114 m²,142,B,,114 m²
+867754,House,House,"€220,000",2,104 m²,339,D,,105 m²
+867753,House,House,"€319,000",3,135 m²,28,A,Yes,255 m²
+867752,House,House,"€395,000",3,157 m²,70,A,Yes,88 m²
+867736,Apartment,Apartment,"€330,000",2,112 m²,200,B,,
+867734,House,House,"€279,000",4,148 m²,270,C,,70 m²
+867733,Apartment,Apartment,"€215,000",2,137 m²,141,B,,146 m²
+867728,Apartment,Duplex,"€339,000",2,127 m²,,,,
+867727,Apartment,Apartment,"€380,000",2,80 m²,110,B,,80 m²
+867726,House,House,"€295,000",3,137 m²,336,D,Yes,362 m²
+867710,House,House,"€735,000",4,209 m²,158,B,Yes,113 m²
+867703,House,,"€1,175,000",5,280 m²,141,B,Yes,726 m²
+867708,House,,"€1,175,000",5,280 m²,141,B,Yes,726 m²
+867700,House,House,"€1,995,000",5,523 m²,326,D,Yes,4.577 m²
+867699,Apartment,Apartment,"€995,000",2,149 m²,90,A,,
+867705,House,,"€1,495,000",5,300 m²,190,B,,168 m²
+867706,Apartment,Apartment,"€1,285,000",2,180 m²,90,A,,
+867701,House,Farm,"€1,070,000",3,387 m²,653,F,Yes,2.427 m²
+867704,House,Villa,"€945,000",0,412 m²,425,E,Yes,1.486 m²
+867702,House,,"€1,495,000",5,300 m²,190,B,Yes,168 m²
+867592,House,House,"€265,000",3,125 m²,444,,Yes,488 m²
+867591,House,Villa,"€395,000",4,160 m²,463,F,Yes,1.093 m²
+867589,House,Villa,"€249,000",2,120 m²,338,,Yes,267 m²
+867590,House,House,"€95,000",4,229 m²,,,Yes,360 m²
+867588,Apartment,Apartment,"€129,000",2,97 m²,485,,,
+867261,Apartment,Apartment,"€169,000",1,47 m²,125,B,,5.434 m²
+867180,House,Villa,"€799,000",5,251 m²,800,,Yes,955 m²
+867022,Apartment,Apartment,"€795,000",3,82 m²,90,A,,86 m²
+866610,Apartment,Flat,"€165,000",2,85 m²,129,B,,
+866602,Apartment,Flat,"€339,900",3,98 m²,99,A,,302 m²
+866599,House,Villa,Contact us,3,568 m²,89,A,Yes,2.580 m²
+866598,House,House,"€449,000",4,173 m²,507,F,Yes,966 m²
+866597,House,House,"€745,000",3,230 m²,112,B,Yes,2.049 m²
+866596,House,House,"€1,800,000",4,483 m²,250,C,Yes,8.125 m²
+866594,House,House,"€299,900",2,161 m²,,C,Yes,150 m²
+866595,Apartment,Flat,"€549,900",3,156 m²,120,,,
+866593,House,Villa,"€895,000",3,346 m²,199,B,Yes,1.387 m²
+866592,Apartment,Flat,"€289,000",2,74 m²,225,C,,
+866591,Apartment,Flat,"€495,000",2,92 m²,233,C,,
+866590,Apartment,Flat,"€255,000",2,,474,E,,
+866589,House,House,"€279,000",4,124 m²,752,F,Yes,162 m²
+866588,House,House,"€185,000",4,160 m²,559,F,Yes,680 m²
+866583,Apartment,,Contact us,3,143 m²,118,B,Yes,298 m²
+866585,Apartment,Flat,"€160,000",1,65 m²,368,D,,
+866586,House,House,"€330,000",5,224 m²,30,A,Yes,246 m²
+866587,Apartment,Flat,"€170,000",1,89 m²,241,C,,
+866584,House,House,"€345,050",4,170 m²,35,A,Yes,304 m²
+866580,Apartment,Penthouse,"€195,000",1,88 m²,158,B,,
+866579,House,House,"€299,000",3,174 m²,232,C,Yes,211 m²
+866539,House,House,"€429,000",5,299 m²,314,D,Yes,260 m²
+866535,House,House,"€379,000",5,278 m²,413,E,,502 m²
+866534,House,House,"€520,000",5,274 m²,107,B,Yes,981 m²
+866533,House,House,"€215,000",2,172 m²,456,E,Yes,153 m²
+866532,Apartment,Flat,"€190,000",2,102 m²,396,D,,
+866525,House,House,"€569,000",5,,30,A,Yes,400 m²
+866517,House,House,"€298,000",3,150 m²,77,A,Yes,780 m²
+866516,House,House,"€325,000",3,154 m²,99,A,Yes,213 m²
+866515,House,House,"€298,000",4,255 m²,397,D,Yes,1.587 m²
+866497,Apartment,Flat,"€149,000",2,80 m²,226,C,,
+866496,Apartment,Flat,"€263,144",2,73 m²,,,,
+866494,Apartment,Flat,"€285,000",2,80 m²,114,B,,
+866491,House,House,"€105,000",,,2418,F,Yes,78 m²
+866487,Apartment,Flat,"€299,000",3,95 m²,129,B,,
+866485,Apartment,Flat,"€289,000",2,52 m²,100,A,,
+866484,House,House,"€229,900",3,150 m²,1368,F,Yes,405 m²
+866482,House,House,"€329,000",3,139 m²,576,F,Yes,820 m²
+866483,House,House,"€179,000",4,123 m²,556,F,Yes,146 m²
+866479,Apartment,Studio,"€215,000",,38 m²,,,,
+866480,House,House,"€329,000",5,300 m²,474,E,,
+866477,Apartment,Flat,"€295,000",2,100 m²,69,A,,
+866473,House,House,"€238,000",2,145 m²,640,F,Yes,185 m²
+866472,House,House,Contact us,3,144 m²,673,F,Yes,737 m²
+866471,House,House,Contact us,,307 m²,1180,F,,21.413 m²
+866460,Apartment,Flat,"€349,500",2,97 m²,,,,
+866459,Apartment,Flat,"€367,500",2,107 m²,,,,
+866458,Apartment,Flat,"€385,500",3,145 m²,,,,
+866457,Apartment,Flat,"€285,000",2,84 m²,,B,,
+866453,Apartment,Flat,"€209,000",3,106 m²,211,C,,
+866452,House,House,"€329,000",3,165 m²,264,C,Yes,300 m²
+866449,House,House,"€389,000",4,167 m²,330,D,,253 m²
+866448,House,House,"€199,000",3,126 m²,216,C,,126 m²
+866447,House,House,"€250,000",2,97 m²,821,F,,440 m²
+866446,Apartment,,"€425,000",2,126 m²,128,B,,
+866443,House,House,"€199,000",4,134 m²,460,E,Yes,87 m²
+866441,Apartment,,"€225,000",2,76 m²,135,B,,
+866437,House,House,"€569,000",4,239 m²,59,A,Yes,285 m²
+866305,Apartment,,"€290,000",4,216 m²,805,F,,178 m²
+866302,House,House,"€458,000",3,151 m²,301,F,Yes,287 m²
+866303,House,House,"€595,000",2,159 m²,323,D,Yes,683 m²
+866301,House,House,"€495,000",5,325 m²,804,F,Yes,
+866300,House,House,"€299,000",3,125 m²,246,C,Yes,140 m²
+866298,House,House,"€549,000",3,264 m²,187,B,Yes,1.016 m²
+866296,House,House,"€595,000",4,285 m²,127,B,Yes,770 m²
+866295,Apartment,,"€199,000",3,109 m²,364,D,,
+866292,Apartment,,"€849,000",2,120 m²,189,B,,186 m²
+866288,Apartment,,"€225,000",2,,127,B,,94 m²
+866285,Apartment,,"€269,000",2,106 m²,161,B,,
+866284,House,House,"€325,000",3,140 m²,776,F,,798 m²
+866283,House,House,"€285,000",4,171 m²,312,D,,240 m²
+866281,House,House,"€329,000",3,,470,E,,194 m²
+866280,Apartment,,"€369,000",2,117 m²,218,C,,
+866278,Apartment,,"€329,000",1,90 m²,239,C,,32 m²
+866279,House,House,"€360,000",3,,,D,,
+866277,Apartment,,"€239,500",1,52 m²,236,C,,
+866270,Apartment,Apartment,"€249,900",2,97 m²,128,B,No,
+866233,House,House,"€209,000",4,198 m²,393,D,Yes,343 m²
+866213,House,,"€670,000",8,361 m²,73,A,,2.744 m²
+866204,House,,"€445,000",4,188 m²,144,B,,1.647 m²
+866201,Apartment,Apartment,"€237,500",1,97 m²,104,B,,
+866200,Apartment,Apartment,"€189,000",2,,92,A,,95 m²
+866199,Apartment,Apartment,"€350,000",2,122 m²,,,,143 m²
+866191,Apartment,Apartment,"€209,000",2,85 m²,244,C,,
+866195,Apartment,Apartment,"€339,000",2,114 m²,,,,
+866192,Apartment,Apartment,"€192,500",1,83 m²,75,A,,
+866193,Apartment,Apartment,"€299,000",3,144 m²,297,C,,
+866196,Apartment,Apartment,"€192,500",1,,79,,,83 m²
+866184,Apartment,Apartment,"€299,000",2,,,,,
+866185,Apartment,Apartment,"€404,000",2,116 m²,,,,316 m²
+866187,House,,"€425,000",3,214 m²,133,B,,515 m²
+866190,Apartment,Apartment,"€315,000",2,,,,,137 m²
+866182,Apartment,Apartment,"€192,500",1,83 m²,75,A,,
+866178,Apartment,Apartment,"€170,000",2,92 m²,230,C,,
+866179,Apartment,Apartment,"€425,000",2,123 m²,,,,325 m²
+866176,House,,"€349,000",3,,417,E,,1.210 m²
+866174,House,,"€370,000",4,339 m²,,,,
+866175,House,,"€289,000",6,225 m²,218,C,,
+866168,House,Farmstead,"€355,000",3,143 m²,644,F,,386 m²
+866169,Apartment,Apartment,"€419,000",3,107 m²,,A,,2.800 m²
+866167,Apartment,Apartment,"€419,000",3,107 m²,,,,2.800 m²
+866160,House,,"€493,750",5,216 m²,,,Yes,652 m²
+866159,Apartment,Apartment,"€285,000",2,94 m²,216,C,,
+866151,Apartment,Apartment,"€535,000",2,76 m²,94,A,,84 m²
+866149,Apartment,Apartment,"€155,000",3,83 m²,232,C,,83 m²
+866147,Apartment,Apartment,"€155,000",2,83 m²,280,C,,83 m²
+866145,House,House,"€319,000",3,127 m²,461,E,,79 m²
+866144,House,House,"€439,500",3,151 m²,52,A,,706 m²
+866137,House,House,"€349,000",4,238 m²,189,B,,167 m²
+866136,Apartment,Penthouse,"€389,000",2,96 m²,100,A,,
+866135,House,House,"€855,000",3,161 m²,136,B,,162 m²
+866133,Apartment,Apartment,"€135,000",1,60 m²,161,B,,60 m²
+866129,House,House,"€243,000",4,186 m²,394,D,,1.600 m²
+866123,House,House,"€375,000",3,164 m²,281,C,Yes,95 m²
+866121,House,Villa,"€745,000",3,235 m²,191,B,,1.503 m²
+866119,House,House,"€280,000",3,170 m²,683,F,,818 m²
+866118,House,House,"€188,000",2,128 m²,510,F,Yes,240 m²
+866117,House,House,"€199,000",3,132 m²,246,C,Yes,148 m²
+866114,Apartment,,"€390,000",0,,238,C,,72 m²
+866113,House,,"€760,000",5,256 m²,97,A,Yes,240 m²
+866112,House,Villa,"€3,295,000",8,1.090 m²,126,B,,4.031 m²
+866109,House,,"€310,300",3,115 m²,,A,Yes,247 m²
+866107,Apartment,Apartment,"€235,000",2,130 m²,208,C,,2.675 m²
+866108,Apartment,Apartment,"€299,000",2,96 m²,83,A,,
+866105,Apartment,Apartment,"€299,000",2,97 m²,304,D,,97 m²
+866103,House,,"€189,000",2,97 m²,320,D,,60 m²
+866099,House,House,"€199,000",4,198 m²,420,E,,315 m²
+866097,House,House,"€380,000",2,92 m²,420,E,Yes,290 m²
+866095,Apartment,Apartment,"€185,000",2,88 m²,314,D,,88 m²
+866094,Apartment,,"€248,000",3,111 m²,253,C,,131 m²
+866092,Apartment,Apartment,"€275,000",0,,,,,
+866086,Apartment,Apartment,"€795,000",3,82 m²,90,A,,85 m²
+866087,Apartment,Apartment,"€365,000",2,,335,D,,
+866082,House,,"€374,000",4,180 m²,295,C,,740 m²
+866080,House,,"€222,500",3,,670,F,Yes,236 m²
+866057,House,House,"€125,000",3,122 m²,395,D,,60 m²
+866055,Apartment,Apartment,"€279,000",2,70 m²,86,A,,70 m²
+866053,Apartment,Apartment,"€279,000",1,61 m²,,,,61 m²
+866054,Apartment,Apartment,"€370,000",1,74 m²,275,C,,80 m²
+866052,House,Villa,"€1,100,000",6,312 m²,50,A,Yes,3.897 m²
+866051,House,,"€348,000",2,120 m²,374,D,Yes,580 m²
+866050,Apartment,Apartment,"€199,500",2,75 m²,363,D,,75 m²
+865999,Apartment,Apartment,"€389,000",2,106 m²,46,A,,106 m²
+865998,Apartment,Apartment,"€399,500",2,112 m²,75,A,,112 m²
+865976,House,House,"€379,000",4,201 m²,385,D,,198 m²
+865977,House,House,"€309,000",4,175 m²,368,D,Yes,387 m²
+865974,House,House,"€249,000",2,162 m²,816,F,Yes,287 m²
+865973,House,House,"€309,000",4,175 m²,368,D,Yes,387 m²
+865949,House,House,"€698,000",4,188 m²,115,B,Yes,505 m²
+865953,Apartment,Apartment,"€380,000",3,137 m²,136,B,,
+865940,Apartment,Apartment,"€1,685,000",6,1.370 m²,196,B,,381 m²
+865960,Apartment,Apartment,"€179,500",1,50 m²,354,D,,60 m²
+865938,Apartment,Apartment,"€524,000",2,118 m²,175,B,,
+865941,Apartment,Apartment,"€445,000",2,81 m²,70,A,Yes,101 m²
+865944,House,Villa,"€1,595,000",16,468 m²,452,E,Yes,1.354 m²
+865936,Apartment,Apartment,"€595,000",1,88 m²,142,B,,128 m²
+865932,House,Villa,"€985,000",4,429 m²,358,D,Yes,317 m²
+865919,Apartment,Apartment,"€259,000",2,68 m²,182,B,,68 m²
+865910,Apartment,Apartment,"€314,000",2,88 m²,86,A,,
+865911,House,House,"€459,000",5,228 m²,189,B,,383 m²
+865896,House,House,"€485,000",4,240 m²,331,D,,140 m²
+865895,House,House,"€429,000",3,222 m²,76,A,,233 m²
+865892,House,House,"€315,000",3,160 m²,738,F,,520 m²
+865879,Apartment,Apartment,"€374,000",4,243 m²,255,C,,230 m²
+865876,House,House,"€529,000",4,171 m²,92,A,,375 m²
+865872,House,House,"€349,000",3,,43,A,,198 m²
+865869,House,House,"€435,000",0,247 m²,252,C,,205 m²
+865865,House,House,"€479,000",4,194 m²,79,A,Yes,321 m²
+865864,House,House,"€349,000",3,116 m²,490,E,Yes,327 m²
+865863,Apartment,Apartment,"€249,000",2,79 m²,67,A,,101 m²
+865861,Apartment,Apartment,"€215,000",1,54 m²,,,,54 m²
+865862,House,House,"€349,000",4,171 m²,281,C,Yes,215 m²
+865859,Apartment,Apartment,"€239,000",2,83 m²,151,B,,85 m²
+865857,Apartment,Apartment,"€275,000",2,87 m²,148,B,,87 m²
+865853,Apartment,Apartment,"€179,000",2,80 m²,129,B,,80 m²
+865716,House,,"€495,000",5,170 m²,36,A,Yes,228 m²
+865717,House,,"€185,000",1,62 m²,376,D,Yes,500 m²
+865713,House,,"€445,000",4,,110,B,Yes,179 m²
+865715,House,,"€439,700",2,,20,A,Yes,5.051 m²
+865714,House,,"€674,900",3,204 m²,127,B,Yes,1.025 m²
+865711,Apartment,,"€295,000",2,90 m²,160,D,No,
+865709,Apartment,,"€314,000",3,94 m²,239,C,No,
+865708,House,House,"€830,000",4,161 m²,58,B,Yes,228 m²
+865707,House,Villa,"€1,175,000",,640 m²,130,B,Yes,2.940 m²
+865706,House,House,"€369,000",3,,,A,Yes,265 m²
+865705,House,House,"€379,000",3,122 m²,219,C,Yes,645 m²
+865704,House,House,"€369,000",3,,,A,Yes,265 m²
+865703,House,House,"€245,000",3,,504,F,Yes,936 m²
+865700,House,House,"€275,000",3,,357,D,Yes,685 m²
+865701,House,House,"€430,000",3,195 m²,,,Yes,3.069 m²
+865698,House,House,Contact us,3,160 m²,496,E,Yes,582 m²
+865697,House,House,"€605,000",3,274 m²,298,C,Yes,2.168 m²
+865695,Apartment,,"€675,000",2,157 m²,135,B,,
+865690,House,House,"€415,000",3,140 m²,152,B,Yes,
+865687,House,House,"€335,000",2,115 m²,457,E,Yes,974 m²
+865684,House,House,"€498,000",4,209 m²,525,F,,1.563 m²
+865589,Apartment,Apartment,"€549,000",2,83 m²,108,B,,
+865548,Apartment,Apartment,"€250,000",1,43 m²,366,,,43 m²
+865538,House,House,"€449,000",3,168 m²,339,D,Yes,586 m²
+865535,Apartment,Apartment,"€1,095,000",3,102 m²,197,B,,
+865534,House,House,"€349,000",4,177 m²,93,A,Yes,234 m²
+865527,House,Single-family home,"€479,000",4,227 m²,395,D,Yes,375 m²
+865525,House,House,"€449,000",4,250 m²,390,D,Yes,830 m²
+865524,House,Villa,"€1,895,000",7,549 m²,157,B,Yes,706 m²
+865521,House,Single-family home,"€415,000",4,250 m²,334,D,Yes,768 m²
+865518,Apartment,Duplex,"€349,000",2,124 m²,222,C,,
+865517,House,Single-family home,"€417,500",3,141 m²,153,B,Yes,100 m²
+865515,Apartment,Apartment,"€339,000",2,97 m²,340,,Yes,97 m²
+865512,House,Villa,"€816,400",6,340 m²,145,B,Yes,1.905 m²
+865511,Apartment,Penthouse,Contact us,2,"105,4 m²",,,,
+865509,House,House,"€460,000",3,450 m²,664,F,Yes,960 m²
+865507,House,Villa,"€825,000",5,358 m²,251,C,Yes,2.420 m²
+865508,House,House,"€279,000",2,131 m²,605,F,Yes,490 m²
+865506,House,Single-family home,"€335,000",3,154 m²,120,B,Yes,390 m²
+865505,House,,"€420,000",4,,153,B,Yes,250 m²
+865504,House,,"€670,000",3,212 m²,420,E,Yes,593 m²
+865476,Apartment,Flat,"€435,000",2,,,,,
+865474,House,House,"€695,000",5,230 m²,244,C,Yes,550 m²
+865473,House,House,"€315,000",2,,,,Yes,660 m²
+865471,Apartment,Flat,"€210,000",1,60 m²,174,D,,
+865472,Apartment,Flat,"€235,000",1,99 m²,295,C,,
+865470,Apartment,Flat,"€235,000",1,99 m²,295,C,,
+865467,House,House,"€429,000",3,,393,D,Yes,156 m²
+865468,House,House,"€395,000",4,196 m²,243,C,Yes,250 m²
+865469,House,House,"€315,000",2,,,,Yes,660 m²
+865465,Apartment,Flat,"€247,500",2,"70,1 m²",,,,
+865464,House,Villa,"€625,000",5,210 m²,791,F,Yes,14.580 m²
+865463,Apartment,Flat,"€238,500",1,"75,5 m²",,,,
+865462,Apartment,Flat,"€110,000",,27 m²,165,B,,
+865460,Apartment,Flat,"€215,000",,43 m²,109,B,,
+865458,House,House,"€325,000",3,195 m²,159,B,,180 m²
+865456,House,House,"€199,000",3,134 m²,432,E,,175 m²
+865453,Apartment,,"€269,000",2,90 m²,153,B,,
+865450,Apartment,,"€429,000",2,106 m²,18,A,Yes,
+865437,Apartment,,"€325,000",3,93 m²,188,B,,229 m²
+865387,House,House,"€360,000",3,134 m²,174,B,Yes,140 m²
+865386,House,House,"€255,000",3,170 m²,171,B,,650 m²
+865379,House,House,"€110,000",1,65 m²,278,C,Yes,152 m²
+865381,House,House,"€260,000",2,"189,52 m²",245,C,,660 m²
+865384,House,House,"€220,000",5,220 m²,1150,F,,1.370 m²
+865385,House,House,"€220,000",5,220 m²,1150,F,,1.370 m²
+865380,House,House,"€616,999",3,"267,17 m²",,A+,,1.100 m²
+865377,House,House,"€603,604",3,"260,12 m²",,A+,,1.127 m²
+865378,House,House,"€569,758",3,"238,74 m²",,A+,,1.017 m²
+865376,House,House,"€150,000",4,163 m²,456,E,,60 m²
+865372,Apartment,,"€397,000",2,92 m²,118,B,,
+865371,House,House,"€409,000",2,280 m²,272,C,Yes,900 m²
+865368,Apartment,Apartment,"€242,500",2,85 m²,219,C,No,
+865357,Apartment,Apartment,"€349,000",2,97 m²,322,D,,
+865358,House,Villa,"€674,900",3,180 m²,294,C,,1.035 m²
+865356,Apartment,Apartment,"€249,000",0,65 m²,191,B,,65 m²
+865355,House,House,"€479,000",4,210 m²,211,C,,1.220 m²
+865354,House,House,"€335,000",3,169 m²,367,D,Yes,288 m²
+865350,House,House,"€545,000",4,205 m²,227,C,Yes,868 m²
+865349,House,,"€349,000",4,225 m²,328,D,Yes,403 m²
+865348,House,House,"€599,000",4,242 m²,181,B,Yes,1.203 m²
+865347,Apartment,Apartment,"€259,000",2,110 m²,138,B,,110 m²
+865346,House,House,"€235,000",4,162 m²,510,F,Yes,600 m²
+865345,House,,"€325,000",3,145 m²,176,B,Yes,210 m²
+865342,Apartment,Apartment,"€239,000",2,72 m²,287,C,,72 m²
+865339,House,House,"€399,000",3,208 m²,380,D,Yes,722 m²
+865340,House,Bel-etage,"€239,000",3,128 m²,251,C,Yes,145 m²
+865338,House,House,"€369,000",4,,,,,
+865337,Apartment,Apartment,"€885,000",2,130 m²,116,B,,
+865333,Apartment,Apartment,"€349,000",2,94 m²,115,B,,94 m²
+865332,Apartment,Penthouse,"€209,000",1,50 m²,266,C,,50 m²
+865331,Apartment,Apartment,"€339,000",3,95 m²,132,B,,128 m²
+865327,Apartment,Apartment,"€159,000",2,60 m²,255,C,,
+865326,Apartment,Apartment,"€759,000",3,115 m²,71,A,,
+865325,Apartment,Apartment,"€535,000",2,72 m²,,,,76 m²
+865324,House,,"€349,000",3,156 m²,156,B,Yes,160 m²
+865322,Apartment,Apartment,"€285,000",2,83 m²,210,C,,83 m²
+865320,Apartment,Apartment,"€365,000",2,75 m²,89,A,,90 m²

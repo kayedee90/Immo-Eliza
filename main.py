@@ -1,9 +1,9 @@
 import pandas as pd
 from parsel import Selector
-from Immo_Eliza.property_scraper import PropertyScraper
+from property_scraper import PropertyScraper
 
 # Load URLs from CSV file.
-df = pd.read_csv(r"Immo_Eliza\data\house_urls.csv")   # Adjust path if needed
+df = pd.read_csv(r"Immo_Eliza\data\house_urls.csv")
 house_urls = df["House URL"].tolist()
 
 
@@ -19,3 +19,4 @@ for url in house_urls:
 df_scraped = pd.DataFrame(scraped_data)
 df_scraped.to_csv(r"Immo_Eliza\data\property_data.csv", index=False)
 print(f"Saved {len(scraped_data)} property listings to 'property_data.csv'.")
+print(df.head())
